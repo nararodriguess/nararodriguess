@@ -1,6 +1,6 @@
--  Hi, I’m @nararodriguess
--  I’m interested in Data Science
--  I’m currently learning Python
+-  Hello world, I’m @nararodriguess
+-  I’m interested in Technology and Finance
+-  I’m currently learning Python and Financial Market
 
 <!---
 nararodriguess/nararodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
