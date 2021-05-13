@@ -1,5 +1,5 @@
 -  Hello world, I’m @nararodriguess
--  I’m interested in Technology and Finance
+-  I’m interested in Technology and Finances
 -  I’m currently learning Python and Financial Market
 
 <!---
