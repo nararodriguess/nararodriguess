@@ -2,7 +2,7 @@
 
 💡  I’m interested in Technology and Finances;
 
-📚 I've been learning Python, Statistics and Java.
+📚 I've been learning Python, R, Statistics.
 
 <!---
 nararodriguess/nararodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
