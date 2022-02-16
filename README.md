@@ -1,8 +1,8 @@
 👸 Hello world, I’m @nararodriguess;
 
-💡  I’m interested in Technology and Finances;
+💡 I'm interested and would like collaborate with Data Analysis and Data Science;
 
-📚 I've been learning Python, R, Statistics.
+📚 I've been learning Python, R, Statistics, BI and SQL.
 
 <!---
 nararodriguess/nararodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
