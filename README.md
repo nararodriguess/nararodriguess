@@ -1,10 +1,24 @@
-👸 Hello world, I’m @nararodriguess;
+# oi, eu sou a Nara 👋
 
-💡 I'm interested and would like collaborate with Data Analysis and Data Science;
+Sou Engenheira de BI, trabalho com ETL, SQL e Power BI no dia a dia — e tô expandindo cada vez mais para o universo de engenharia de dados: pipelines, orquestração, cloud.
 
-📚 I've been learning Python, R, Statistics, BI and SQL.
+---
 
-<!---
-nararodriguess/nararodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## o que eu uso
+
+SQL · Pentaho PDI · Power BI · SQL Server · MySQL
+
+estudando: Airflow · Python · Cloud · Docker · Ingestão via API REST · dbt · Linux/WSL2 · 
+
+---
+
+## certificações
+
+- Microsoft Power BI Data Analyst Associate (PL-300)
+- Microsoft Azure Data Fundamentals (DP-900)
+
+---
+
+## onde me achar
+
+[LinkedIn](https://www.linkedin.com/in/nara-rodriguess/)
