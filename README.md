@@ -8,7 +8,7 @@ Sou Engenheira de BI, trabalho com ETL, SQL e Power BI no dia a dia — e tô ex
 
 SQL · Pentaho PDI · Power BI · SQL Server · MySQL
 
-estudando: Airflow · Python · Cloud · Docker · Ingestão via API REST · dbt · Linux/WSL2 · 
+estudando: Airflow · Python · Cloud · Docker · Ingestão via API REST · dbt · Linux/WSL2 
 
 ---
 
